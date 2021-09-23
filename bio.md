@@ -1,0 +1,6 @@
+- 🌿 Hi~ my name is Gretchen Andreasen
+- 🐒 I study microbiomes and metagenomics in baboons
+- 🧬 I’m currently learning how to analyze shotgun metagenomics
+- 📫 How to reach me:
+- - 🐦 tweet @midwesternmouse
+- - 📩 email gretandreasen@gmail.com
